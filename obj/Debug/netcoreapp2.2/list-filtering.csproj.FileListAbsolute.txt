@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.AssemblyInfo.cs
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/bin/Debug/netcoreapp2.2/list-filtering.deps.json
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/bin/Debug/netcoreapp2.2/list-filtering.runtimeconfig.json
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/bin/Debug/netcoreapp2.2/list-filtering.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/bin/Debug/netcoreapp2.2/list-filtering.dll
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/bin/Debug/netcoreapp2.2/list-filtering.pdb
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.dll
+/Users/emilyloggins/workspace/c-sharp-exercises/list-filtering/obj/Debug/netcoreapp2.2/list-filtering.pdb
